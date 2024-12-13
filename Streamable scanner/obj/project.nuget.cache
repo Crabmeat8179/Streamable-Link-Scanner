@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FpoWPXAKlRc=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mrage\\source\\repos\\Streamable scanner\\Streamable scanner\\Streamable scanner.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mrage\\.nuget\\packages\\htmlagilitypack\\1.11.71\\htmlagilitypack.1.11.71.nupkg.sha512"
+  ],
+  "logs": []
+}
