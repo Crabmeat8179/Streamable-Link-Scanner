@@ -1,4 +1,4 @@
-**Streamable Link Scanner**
+# Streamable Link Scanner
 
 
 A small C# Console application that guesses the ID of streamable links and outputs valid ones
