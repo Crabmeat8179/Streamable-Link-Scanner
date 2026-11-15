@@ -2,8 +2,9 @@
 
 
 A small C# Console application that guesses the ID of streamable links and outputs valid ones
-![image](https://github.com/user-attachments/assets/af2dfb1d-9e9b-4e81-a5e6-80e431909c22)
+<img width="1158" height="674" alt="image" src="https://github.com/user-attachments/assets/a3fa4f04-fcac-4145-a725-9e61bfd76c5f" />
 
 **Librarys Used**
 
 HtmlAgilityPack
+
