@@ -1,10 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "FpoWPXAKlRc=",
+  "dgSpecHash": "2mxVQuiJJBk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\mrage\\source\\repos\\Streamable scanner\\Streamable scanner\\Streamable scanner.csproj",
+  "projectFilePath": "C:\\Users\\Themida\\source\\repos\\Streamable scanner\\Streamable scanner\\Streamable scanner.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\mrage\\.nuget\\packages\\htmlagilitypack\\1.11.71\\htmlagilitypack.1.11.71.nupkg.sha512"
+    "C:\\Users\\Themida\\.nuget\\packages\\htmlagilitypack\\1.11.71\\htmlagilitypack.1.11.71.nupkg.sha512",
+    "C:\\Users\\Themida\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.34\\microsoft.windowsdesktop.app.ref.8.0.34.nupkg.sha512",
+    "C:\\Users\\Themida\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.34\\microsoft.netcore.app.ref.8.0.34.nupkg.sha512",
+    "C:\\Users\\Themida\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.34\\microsoft.aspnetcore.app.ref.8.0.34.nupkg.sha512",
+    "C:\\Users\\Themida\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.34\\microsoft.netcore.app.host.win-x64.8.0.34.nupkg.sha512"
   ],
   "logs": []
 }

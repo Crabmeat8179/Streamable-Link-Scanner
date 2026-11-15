@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "targets": {
     "net8.0": {
       "HtmlAgilityPack/1.11.71": {
@@ -74,24 +74,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mrage\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Themida\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mrage\\source\\repos\\Streamable scanner\\Streamable scanner\\Streamable scanner.csproj",
+      "projectUniqueName": "C:\\Users\\Themida\\source\\repos\\Streamable scanner\\Streamable scanner\\Streamable scanner.csproj",
       "projectName": "Streamable scanner",
-      "projectPath": "C:\\Users\\mrage\\source\\repos\\Streamable scanner\\Streamable scanner\\Streamable scanner.csproj",
-      "packagesPath": "C:\\Users\\mrage\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mrage\\source\\repos\\Streamable scanner\\Streamable scanner\\obj\\",
+      "projectPath": "C:\\Users\\Themida\\source\\repos\\Streamable scanner\\Streamable scanner\\Streamable scanner.csproj",
+      "packagesPath": "C:\\Users\\Themida\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Themida\\source\\repos\\Streamable scanner\\Streamable scanner\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\mrage\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Themida\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -103,6 +98,7 @@
       },
       "frameworks": {
         "net8.0": {
+          "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {}
         }
@@ -115,12 +111,13 @@
       "restoreAuditProperties": {
         "enableAudit": "true",
         "auditLevel": "low",
-        "auditMode": "all"
+        "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.100"
+      "SdkAnalysisLevel": "11.0.100"
     },
     "frameworks": {
       "net8.0": {
+        "framework": "net8.0",
         "targetAlias": "net8.0",
         "dependencies": {
           "HtmlAgilityPack": {
@@ -139,12 +136,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.34, 8.0.34]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.34, 8.0.34]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[8.0.34, 8.0.34]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[8.0.34, 8.0.34]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\11.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
